@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4YWFxcG1pbTA2bW12Ym9memQ5c3FsM2NoaDQ1djZpZnhwNHZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4YWFxcG1pbTA2bW12Ym9memQ5c3FsM2NoaDQ1djZpZnhwNHZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">HEY THERE 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Mahmoud Tarek<br><br>- 🔭 I’m working as Software Developer</p>
+<p align="left">- 🔭 I’m working as Software Developer<br>- 🚀 Passionate about building mobile apps using Flutter & Firebase<br>- 💡 Love solving problems & learning new technologies<br>- ⚡ Fun Fact: I turn any problem into real app 🚀</p>
 
 ###
 
@@ -57,13 +57,22 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudTareek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MahmoudTareek&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudTareek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">👀 Profile Views</h3>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudTareek.MahmoudTareek&"  />
 </div>
 
 ###
